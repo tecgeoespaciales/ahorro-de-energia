@@ -4,8 +4,8 @@
 *.obj
 *.o
 *.elf
-*.hex
-*.bin
+#*.hex
+#*.bin
 *.map
 *.lst
 *.sym
