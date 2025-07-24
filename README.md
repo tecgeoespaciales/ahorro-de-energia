@@ -13,4 +13,4 @@ no se implementa reloj externo
 # Diagrama Cicuital
 
 
-![Diagrama Circuital](diagrama.png)
+![Diagrama Circuital](Diagrama.png)
