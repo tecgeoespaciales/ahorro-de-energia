@@ -10,7 +10,7 @@ en PA5 se implementa entrada de activacion desde el microcontrolador
 no se implementa reloj externo
 
 
-# Diagrama Cicuital
+# Diagrama Circuital
 
 
 ![Diagrama Circuital](Diagrama.png)
