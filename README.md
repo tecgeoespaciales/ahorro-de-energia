@@ -16,7 +16,7 @@ no se implementa reloj externo
 ![Diagrama Circuital](Diagrama.png)
 
 
-** La siguiente información fue tomada de este [enlace](https://blog.uelectronics.com/electronica/aprende-con-nuestro-tutorial-a-programar-el-pic-k-150/), créditos a sus respectivos autores.**
+**La siguiente información fue tomada de este [enlace](https://blog.uelectronics.com/electronica/aprende-con-nuestro-tutorial-a-programar-el-pic-k-150/), créditos a sus respectivos autores.**
 
 # Instalación driver prolific
 
