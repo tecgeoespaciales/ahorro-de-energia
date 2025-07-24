@@ -52,4 +52,4 @@ Lo encontraras en la carpeta “Software -DIY K150”.
 
 En el siguiente GIF, podrás observar cómo programar el PIC16F628A insertándolo en el zócalo ZIF de 40 pines, así cómo los pasos para cambiar el puerto COM y no tener errores.
 
-![Programacion Pic](Programacion_Pic.gif)
+![Programacion Pic](quemado_hex.gif)
