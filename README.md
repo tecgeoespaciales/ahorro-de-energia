@@ -14,3 +14,13 @@ no se implementa reloj externo
 
 
 ![Diagrama Circuital](Diagrama.png)
+
+# Instalación driver prolific
+
+Para descargar los programas y los controladores necesarios, por favor accede al enlace  [Recursos K150](https://blog.uelectronics.com/wp-content/uploads/2024/02/Recursos-Programador-K150.zip). Posteriormente sigue los siguientes pasos:
+
+1. Una vez descargado el archivo .ZIP, descomprímelo y procede a instalar el controlador PL2303_Prolific en tu PC. Este controlador es compatible con sistemas operativos Windows 7, 8, 10 y 11.
+
+En el siguiente GIF podrás ver los pasos de instalación:
+
+![Instalar Driver](Instalar_driver.gif)
